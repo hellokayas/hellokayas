@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Working on Applied Machine Learning, @Northwestern University
-- 🌱 Learning LLMs, Generative AI and how can we apply them in Recommendation Systems?
+- 🌱 Learning LLMs and Generative AI. How can we apply them in Recommendation Systems?
 - 👯 Looking to collaborate on anything related to Recommendation Systems, NLP, and LLMs
 
 
