@@ -13,7 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hellokayas&rank_icon=github&show_icons=true&count_private=true&theme=tokyonight)]()
 
-<img align='right' src='[https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif](https://giphy.com/embed/2mL0ZiwM4gV9K" width="480" height="370" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/puppy-golden-retriever-2mL0ZiwM4gV9K)' width='100"'>
+<img align='right' src='https://giphy.com/gifs/puppy-golden-retriever-2mL0ZiwM4gV9K' width='100"'>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hellokayas&langs_count=5&theme=tokyonight)]()
 
