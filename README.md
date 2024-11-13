@@ -64,6 +64,6 @@
 
 <hr/>
 
-[![Linkedin Badge](https://img.shields.io/badge/sayak-chakrabarty-cs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-chakrabarty-cs/)]([https://www.linkedin.com/in/souradip-pal/](https://www.linkedin.com/in/sayak-chakrabarty-cs/)
+[![Linkedin Badge](https://img.shields.io/badge/sayak-chakrabarty-cs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-chakrabarty-cs/)](https://www.linkedin.com/in/sayak-chakrabarty-cs/)
 
 [![Gmail Badge](https://img.shields.io/badge/-pidnas94335@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pidnas94335@gmail.com)](mailto:pidnas94335@gmail.com) 
