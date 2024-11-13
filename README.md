@@ -64,6 +64,8 @@
 
 <hr/>
 
-[![Linkedin Badge](https://img.shields.io/badge/sayak-chakrabarty-cs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-chakrabarty-cs/)](https://www.linkedin.com/in/sayak-chakrabarty-cs/)
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/sayak-chakrabarty-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayak-chakrabarty-cs" height="30" width="40" /></a>
 
 [![Gmail Badge](https://img.shields.io/badge/-pidnas94335@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pidnas94335@gmail.com)](mailto:pidnas94335@gmail.com) 
