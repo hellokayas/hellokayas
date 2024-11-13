@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--   <img src="https://github.com/akshaym96/akshaym96/assets/6770064/7e429b6e-a37f-4496-a6db-d3a8690fd181"/> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Machine+Learning+%7C+NLP+%7C+MultiModal+Learning;Generative+AI+%7C+Recommendation+Systems+%7C+Federated+Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=ML+%7C+NLP+%7C+CV;Gen+AI+%7C+RecSys+%7C+FSL"/>
 </p>
 
 - 🔭 Working on Applied Machine Learning, @Northwestern University
