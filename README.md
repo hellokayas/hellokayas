@@ -13,7 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hellokayas&rank_icon=github&show_icons=true&count_private=true&theme=tokyonight)]()
 
-<img align='right' src='https://images.squarespace-cdn.com/content/v1/65a0568b2a8a070d96671ab0/1720490849916-GT3V81YEPI5DYMQCAIFX/Facetune_14-08-2023-21-07-42.JPG' width='400'>
+<img align='right' src='https://images.squarespace-cdn.com/content/v1/65a0568b2a8a070d96671ab0/1720490849916-GT3V81YEPI5DYMQCAIFX/Facetune_14-08-2023-21-07-42.JPG' width='300'>
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hellokayas&langs_count=5&theme=tokyonight)]()
