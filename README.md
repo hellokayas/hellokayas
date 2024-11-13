@@ -13,7 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hellokayas&rank_icon=github&show_icons=true&count_private=true&theme=tokyonight)]()
 
-<img align='right' src='https://giphy.com/gifs/puppy-golden-retriever-2mL0ZiwM4gV9K' width='100"'>
+<img align='right' src='[https://giphy.com/gifs/puppy-golden-retriever-2mL0ZiwM4gV9K](https://tenor.com/view/golden-retriever-dog-did-you-call-me-mirame-perrito-golden-gif-5507543374438512693)' width='100"'>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hellokayas&langs_count=5&theme=tokyonight)]()
 
